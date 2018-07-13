@@ -1,0 +1,876 @@
+
+Package: io.github.zosrepo.adblock
+Architecture: iphoneos-arm
+Version: 0.2~beta1
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.adblock_0.2~beta1_iphoneos-arm.deb
+Size: 10028
+MD5sum: 0b04b74bb57a4aef287dfa423462a1a5
+Homepage: http://twitter.com/Yangcheesen
+Description: ADs Blocker for Apps.. Note: may not load page or app crash.
+Name: ADs Blocker
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.adblock
+
+Package: io.github.zosrepo.appstorenohistory
+Architecture: iphoneos-arm
+Version: 0.0~beta7
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: preferenceloader, mobilesubstrate
+Filename: ./io.github.zosrepo.appstorenohistory_0.0~beta7_iphoneos-arm.deb
+Size: 26958
+MD5sum: 7a4829307ad4080f8f3a8e87763a172c
+Homepage: http://twitter.com/Yangcheesen
+Description: Clean Updated Apps History
+Name: Appstore No History
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.appstorenohistory
+
+Package: io.github.zosrepo.appstoreunrestrict
+Architecture: iphoneos-arm
+Version: 0.0~beta4a
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: preferenceloader, mobilesubstrate
+Filename: ./io.github.zosrepo.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
+Size: 26200
+MD5sum: 669e6b1c112f3d59801b048a3adc3fa3
+Homepage: http://twitter.com/Yangcheesen
+Description: No Download Size Limit In AppStore Over Cellular
+Name: Appstore Unrestrict
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/AppstoreUnrestrictSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.appstoreunrestrict
+
+Package: io.github.zosrepo.artworkify
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.artworkify_0.0~beta4_iphoneos-arm.deb
+Size: 26648
+MD5sum: 19b346c1ba2e49529c24ee4dcea649d4
+Homepage: http://twitter.com/Yangcheesen
+Description: Spotify Artwork In Playlist
+Name: Artworkify
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.artworkify
+
+Package: io.github.zosrepo.autoshiftfix
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.autoshiftfix_0.1_iphoneos-arm.deb
+Size: 3632
+MD5sum: e9ae0ad96261c402cd32c0cf30ce15c1
+Homepage: http://twitter.com/Yangcheesen
+Description: No shift when delete capitalized letter
+Name: AutoShiftFix
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.autoshiftfix
+
+Package: io.github.zosrepo.avcache
+Architecture: iphoneos-arm
+Version: 0.0~beta2
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.avcache_0.0~beta2_iphoneos-arm.deb
+Size: 25508
+MD5sum: c213978abe7ab6810772976be5b7c6ca
+Homepage: http://twitter.com/Yangcheesen
+Description: Video Buffer System for AVPlayer
+Name: AVCache
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.avcache
+
+Package: io.github.zosrepo.bgmodekill
+Architecture: iphoneos-arm
+Version: 0.0~beta
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: firmware (>= 6.0), firmware (<< 11.0), mobilesubstrate
+Filename: ./io.github.zosrepo.bgmodekill_0.0~beta_iphoneos-arm.deb
+Size: 8310
+MD5sum: a5363e81d53013b0c7713f4cdc5342ea
+Homepage: http://twitter.com/Yanggchesen
+Description: Kill Auto-Launch Background Apps Some Apps has Auto-Launch Background whem system start or remove from multitask (like Mail/WhatsApp App) with this will disable Auto-Launch Background in All Apps. No options to Configure.
+Name: BGModeKill
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.bgmodekill
+
+Package: io.github.zosrepo.biotap
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, firmware (>= 10)
+Filename: ./io.github.zosrepo.biotap_0.1_iphoneos-arm.deb
+Size: 5580
+MD5sum: b8a88a3a67559efef3ebe0d157f1d777
+Homepage: http://twitter.com/Yangcheesen
+Description: Bio Authenticated Auto Tap to Unlock
+Name: BioTap
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.biotap
+
+Package: io.github.zosrepo.blightalert
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.blightalert_0.0~beta4_iphoneos-arm.deb
+Size: 39614
+MD5sum: f4c813a2c6b0519406f14c4f1fbab657
+Homepage: http://twitter.com/Yangcheesen
+Description: Use Brightness As Alert
+Name: BLightAlert
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.blightalert
+
+Package: io.github.zosrepo.cachewipe
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Addons (Flipswitch)
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./io.github.zosrepo.cachewipe_0.0~beta1_iphoneos-arm.deb
+Size: 17176
+MD5sum: 78cfdabc3bd5e8d556b103597f1d1857
+Homepage: http://twitter.com/Yangcheesen
+Description: Clear Apps Caches Switch
+Name: CacheWipe
+Author: Yangcheesen
+Icon: file:///Library/Switches/CacheWipe.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.cachewipe
+
+Package: com.julioverne.celldia
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, cydia
+Filename: ./io.github.zosrepo.celldia_0.0~beta4_iphoneos-arm.deb
+Size: 31552
+MD5sum: 306db56c2f20f888f55539d4978d6284
+Homepage: http://twitter.com/Yangcheesen
+Description: Redesigned Cell Cydia
+Name: CellDia
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.celldia
+
+Package: io.github.zosrepo.chargemode
+Architecture: iphoneos-arm
+Version: 0.0~beta3
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.chargemode_0.0~beta3_iphoneos-arm.deb
+Size: 23290
+MD5sum: 525d26712a39bb3f6ba2cc7cd4cc71d7
+Homepage: http://twitter.com/Yangcheesen
+Description: Lite Charging View with Batt Dots and Hour.
+Name: ChargeMode
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.chargemode
+
+Package: io.github.zosrepo.cmdsapp
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Utilities
+Maintainer: Yangcheesen
+Filename: ./io.github.zosrepo.cmdsapp_0.1_iphoneos-arm.deb
+Size: 8618
+MD5sum: 56883a7ab8d704fd7ce63c70f1c8c586
+Homepage: http://twitter.com/Yangcheesen
+Description: bash command list installed apps.. (getapplist [-id], getappdir [APP_ID])
+Name: cmdsapp
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.cmdsapp
+
+Package: io.github.zosrepo.coverflowm
+Architecture: iphoneos-arm
+Version: 0.1b
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./io.github.zosrepo.coverflowm_0.1b_iphoneos-arm.deb
+Size: 167876
+MD5sum: 521115f193c938e1f8a6bbf40ff6efdf
+Homepage: http://twitter.com/Yangcheesen
+Description: Landscape Music Styles for Music App
+Name: CoverflowM
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.coverflowm
+
+Package: io.github.zosrepo.cypush2
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: firmware (>= 7.0), firmware (<< 12.0), cydia, mobilesubstrate, preferenceloader
+Conflicts: io.github.zosrepo.cypush
+Filename: ./io.github.zosrepo.cypush2_1.1_iphoneos-arm.deb
+Size: 115070
+MD5sum: 57a80808493e9defc0ce4bf5aee2cc40
+Homepage: http://twitter.com/Yangcheesen
+Description: Cydia Push Notifications Background
+Name: CyPush2
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.cypush2
+
+Package: io.github.zosrepo.cypush
+Architecture: iphoneos-arm
+Version: 0.7
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: firmware (>= 6.0), firmware (<< 11.0), cydia, mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.cypush_0.7_iphoneos-arm.deb
+Size: 144198
+MD5sum: aa24716c8f972bc961c21f2811a6d7db
+Homepage: http://twitter.com/Yangcheesen
+Description: Cydia Push Notifications Background
+Name: CyPush
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.cypush
+
+Package: io.github.zosrepo.debrepack
+Architecture: iphoneos-arm
+Version: 1.0-1a
+Section: Development
+Maintainer: Yangcheesen
+Depends: dpkg
+Filename: ./io.github.zosrepo.debrepack_1.0-1a_iphoneos-arm.deb
+Size: 1176
+MD5sum: d20dcc8512cca79ae4f2418e13adb720
+Homepage: http://twitter.com/Yangcheesen
+Description: bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/deb/
+Name: deb Repack
+Author: Yangcheesen
+Depiction: http://zosrepo.io/description.html?id=io.github.zosrepo.debrepack
+
+Package: io.github.zosrepo.dropbearalert
+Architecture: iphoneos-arm
+Version: 0.0~beta2
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.dropbearalert_0.0~beta2_iphoneos-arm.deb
+Size: 57280
+MD5sum: acbdd585abd6384451b695643bc103f2
+Homepage: http://twitter.com/Yangcheesen
+Description: Dropbear System Login Alert for iOS 10
+Name: DropbearAlert
+Author: Yangcheesen
+Depiction: http://zosrepo.io/description.html?id=io.github.zosrepo.dropbearalert
+
+Package: io.github.zosrepo.dropbearswith
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Addons (Flipswitch)
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 10)
+Filename: ./io.github.zosrepo.dropbearswith_0.3_iphoneos-arm.deb
+Size: 22508
+MD5sum: 5d48d87dcd01e309605ae322b3981ea9
+Homepage: http://twitter.com/Yangcheesen
+Description: SSH Toogle for Dropbear via Flipswitch in iOS 10
+Name: DropbearSwitch
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.dropbearswith
+
+Package: io.github.zosrepo.edgealert
+Architecture: iphoneos-arm
+Version: 0.0~beta2
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./io.github.zosrepo.edgealert_0.0~beta2_iphoneos-arm.deb
+Size: 51462
+MD5sum: 5e6745ce2b2e94ca4d7de3b6acccff14
+Homepage: http://twitter.com/Yangcheesen
+Description: S8 Edge Alert
+Name: EdgeAlert
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.edgealert
+
+Package: io.github.zosrepo.ext3nder-installer
+Architecture: iphoneos-arm
+Version: 021a
+Section: Utilities
+Maintainer: Yangcheesen
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: io.github.zosrepo.ext3nder
+Filename: ./io.github.zosrepo.ext3nder-installer_021a_iphoneos-arm.deb
+Size: 517614
+MD5sum: 97410eb497efc82931531097c071311f
+Homepage: http://twitter.com/Yangcheesen
+Description: Cydia Extender Installer With Extra Features
+Name: Ext3nder Installer
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.ext3nder-installer
+
+Package: io.github.zosrepo.fastuprepo
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Section: Tweaks
+Maintainer: Yangchesen
+Depends: cydia (>> 1.1.27), mobilesubstrate, cy+cpu.arm64
+Filename: ./io.github.zosrepo.fastuprepo_0.0~beta4_iphoneos-arm.deb
+Size: 7810
+MD5sum: b8179fa786e3a990c47b009a0230c90e
+Homepage: http://twitter.com/Yangcheesen
+Description: SpeedUp Cydia Update Sources by blocking download translation.
+Name: fastUpRepo
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.fastuprepo
+
+Package: io.github.zosrepo.fiona
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.fiona_0.1_iphoneos-arm.deb
+Size: 48978
+MD5sum: 227ba49bb8c4d103291edd7b0cd6bdd6
+Homepage: http://twitter.com/Yangcheesen
+Description: Keep WiFi Always Connected
+Name: Fiona
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/FionaSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.fiona
+
+Package: io.github.zosrepo.flipstatus
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, com.rpetrich.flipcontrolcenter
+Filename: ./io.github.zosrepo.flipstatus_0.0~beta1_iphoneos-arm.deb
+Size: 6068
+MD5sum: b77ae59c1af4a4c2a4ff47b4419e3f2a
+Homepage: http://twitter.com/Yangcheesen
+Description: FlipControlCenter Status Switch in iOS 10
+Name: FlipStatus
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.flipstatus
+
+Package:io.github.zosrepo.fmydblocker
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.fmydblocker_0.0~beta1_iphoneos-arm.deb
+Size: 32826
+MD5sum: e6c84ec4279c54656be27e16803de276
+Homepage: http://twitter.com/Yangcheesen
+Description: Find My iPhone Block Remote Actions via iCloud, Configure From Settings
+Name: fmydBlocker
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/fmydBlockerSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.fmydblocker
+
+Package: io.github.zosrepoe.goodwifi
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.goodwifi_0.0~beta4_iphoneos-arm.deb
+Size: 54976
+MD5sum: 3866bac5a02349a472a818f7180e28ca
+Homepage: http://twitter.com/Yangcheesen
+Description: Better WiFi Preferences
+Name: GoodWiFi
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.goodwifi
+
+Package: io.github.zosrepo.gravity
+Architecture: iphoneos-arm
+Version: 0.5
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.gravity_0.5_iphoneos-arm.deb
+Size: 148142
+MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
+Homepage: http://twitter.com/Yangcheesen
+Description: Graviboard alternative
+Name: Gravity
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.gravity
+
+Package: io.github.zosrepo.headsetbtsound
+Architecture: iphoneos-arm
+Version: 0.0~beta
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.headsetbtsound_0.0~beta_iphoneos-arm.deb
+Size: 4362
+MD5sum: 54f98e5b7bfeb932f390ddb860ba6c39
+Homepage: http://twitter.com/Yangcheesen
+Description: Use Bluetooth HFP Headset in Apps like BT Headphones
+Name: HeadsetBTSound
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.headsetbtsound
+
+Package: io.github.zosrepo.heysiri
+Architecture: iphoneos-arm
+Version: 0.0~beta5
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.heysiri_0.0~beta5_iphoneos-arm.deb
+Size: 103364
+MD5sum: a5cc4fc03051ab62d9160554f93853c8
+Homepage: http://twitter.com/Yangcheesen
+Description: Hey Siri While Not Charging
+Name: HeySiri
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/HeySiriSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.heysiri
+
+Package: io.github.zosrepo.hotspotting
+Architecture: iphoneos-arm
+Version: 0.0~beta2
+Section: Addons (Flipswitch)
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Package: io.github.zosrepo.hotspotting
+Filename: ./io.github.zosrepo.hotspotting_0.0~beta2_iphoneos-arm.deb
+Size: 16628
+MD5sum: c42d26b65ded94b65021b88175c8575f
+Homepage: http://twitter.com/Yangcheesen
+Description: Hotspot Switch Enhanced
+Name: Hotspotting
+Author: Yangcheeswen
+Icon: file:///Library/PreferenceBundles/HotspottingSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.hotspotting
+
+Package: io.github.zosrepo.hsbcbypass
+Architecture: iphoneos-arm
+Version: 0.3b
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.hsbcbypass_0.3b_iphoneos-arm.deb
+Size: 20872
+MD5sum: e14a86ec12b15e84782fb4b21a0b2081
+Homepage: http://twitter.com/Yangcheesen
+Description: Jailbreak Detection Bypass for HSBC HK/UK/France Banking App.
+Name: HSBC Bypass
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.hsbcbypass
+
+Package: io.github.zosrepo.jailprotect
+Architecture: iphoneos-arm
+Version: 0.0~beta4a
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.jailprotect_0.0~beta4a_iphoneos-arm.deb
+Size: 53168
+MD5sum: 593b42aeab259fd500e32f99ac598373
+Homepage: http://twitter.com/Yangcheesen
+Description: No Substrate Mode Alternative
+Name: JailProtect
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/JailProtectSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.jailprotect
+
+Package: io.github.zosrepo.jbme93xwebclip
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Utilities
+Maintainer: Yangcheesen
+Filename: ./io.github..jbme93xwebclip_0.1_iphoneos-arm.deb
+Size: 371670
+MD5sum: df516824873601c38ca3d405818bcc63
+Homepage: http://twitter.com/Yangcheesen
+Description: Re-Active Pangu 9.3.x Jailbreak Offline, Install JailbreakMe 9.3.x Webclip Profile 100% Offline.
+Name: JBMe 9.3.x Webclip
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.jbme93xwebclip
+
+Package: io.github.zosrepo.kbmover
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.kbmover_0.0~beta1_iphoneos-arm.deb
+Size: 20464
+MD5sum: fa9b78608e9d3826df2ef064be533062
+Homepage: http://twitter.com/Yangcheesen
+Description: Move your Keyboard on Screen
+Name: KBMover
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/KBMover.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.kbmover
+
+Package: io.github.zosrepo.lockdroiddonuts
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Themes
+Maintainer: Yangcheesen
+Filename: ./io.github.zosrepo.lockdroiddonuts_0.0~beta1_iphoneos-arm.deb
+Size: 178432
+MD5sum: ef34fa0ab5fec723693676eeefcba969
+Homepage: http://twitter.com/Yangcheesen
+Description: Donuts Theme For LockDroid
+Name: Donuts LockDroid
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.lockdroiddonuts
+
+Package: io.github.zosrepo.lockdroid
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Section: Tweaks
+Maintainer: Yangchesen
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./io.github.zosrepo.lockdroid_0.0~beta4_iphoneos-arm.deb
+Size: 98998
+MD5sum: c1605dcfb8d6f3c9afa102598efcadee
+Homepage: http://twitter.com/Yangcheesen
+Description: Android Lockscreen
+Name: LockDroid
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.lockdroid
+
+Package: io.github.zosrepo.lowerinstall
+Architecture: iphoneos-arm
+Version: 0.0~beta3
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.lowerinstall_0.0~beta3_iphoneos-arm.deb
+Size: 39614
+MD5sum: 375d896161131f0c85ad4ed7ba79792c
+Homepage: http://twitter.com/Yangcheesen
+Description: Install Apps In Lower iOS Version
+Name: LowerInstall
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.lowerinstall
+
+Package: io.github.zosrepo.mcast
+Architecture: iphoneos-arm
+Version: 0.0~beta3
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./io.github.zosrepo.mcast_0.0~beta3_iphoneos-arm.deb
+Size: 180046
+MD5sum: e89afa453b20f9340ff6f39ca1b16400
+Homepage: http://twitter.com/ijulioverne
+Description: Chromecast from Music App... Cast Music from Now Playing View. tested in Chromecast model 2014
+Name: mCast
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.mcast
+
+Package: io.github.zosrepo.mibandalert
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, applist, preferenceloader
+Conflicts: com.pigigaldi.mibandutility
+Filename: ./io.github.zosrepo.mibandalert_0.0.4_iphoneos-arm.deb
+Size: 89274
+MD5sum: ada880b1c69c36240682104dc62cbe19
+Homepage: http://twitter.com/Yangcheesen
+Description: System Notification XiaoMi Mi Band for iOS.
+Name: MiBand Alert
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/MiBandAlertSettings.bundle/MiBandAlert@2x.png
+Depiction: http://zeosrepo.github.io/description.html?id=io.github.zosrepo.mibandalert
+
+Package: io.github.zosrepo.mimport
+Architecture: iphoneos-arm
+Version: 0.0~beta33
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Filename: ./io.github.zosrepo.mimport_0.0~beta33_iphoneos-arm.deb
+Size: 627962
+MD5sum: 8d8639f8e821148f870e3b14660bc7b7
+Homepage: http://twitter.com/Yangcheesen
+Description: Media Importer Directly From Music App
+Name: MImport
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.mimport
+
+Package: io.github.zosrepo.mshuffle
+Architecture: iphoneos-arm
+Version: 0.0~beta4
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.mshuffle_0.0~beta4_iphoneos-arm.deb
+Size: 36360
+MD5sum: 952e38aef5190722b4d40b0c57fb80ef
+Homepage: http://twitter.com/Yangcheesen
+Description: Music Album End Playing Hit Play To Shuffle.. Music App
+Name: MShuffle
+Author: Yangcheesen
+Depiction: http://zeosrepo.github.io/description.html?id=io.github.zosrepo.mshuffle
+
+Package: io.github.zosrepo.musicv
+Architecture: iphoneos-arm
+Version: 0.0~beta2-0
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.musicv_0.0~beta2-0_iphoneos-arm.deb
+Size: 30526
+MD5sum: 74d8a657abe39da836fcd39d8185d394
+Homepage: http://twitter.com/Yangcheesen
+Description: Better Now Playing View in Music App
+Name: MusicV
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.musicv
+
+Package: io.github.zosrepo.musilyric
+Architecture: iphoneos-arm
+Version: 0.5~beta4
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.musilyric_0.5~beta4_iphoneos-arm.deb
+Size: 24022
+MD5sum: 9cd777a0c4ab4a7d2c09cf67de81c25e
+Homepage: http://twitter.com/Yangcheesen
+Description: Best Lyrics Music
+Name: MusiLyric
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.musilyric
+
+Package: io.github.zosrepo.ncgroup
+Architecture: iphoneos-arm
+Version: 0.0~beta11
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader
+Filename: ./io.github.zosrepo.ncgroup_0.0~beta11_iphoneos-arm.deb
+Size: 62908
+MD5sum: 0a896f2055a2f16e1602f26d1a20ff95
+Homepage: http://twitter.com/Yangcheesen
+Description: Group Notification Center items
+Name: NCGroup
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/NCGroup.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.ncgroup
+
+Package: io.github.zosrepo.nonceset
+Architecture: iphoneos-arm
+Version: 0.4
+Section: Utilities
+Maintainer: Yangcheesen
+Filename: ./io.github.zosrepo.nonceset_0.4_iphoneos-arm.deb
+Size: 79690
+MD5sum: 40f3d68e9145c3d3fff7ce743c555249
+Homepage: http://twitter.com/Yangcheesen
+Description: Manage boot-nonce easy.
+Name: NonceSet
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.nonceset
+
+Package: io.github.zosrepo.ntspeed
+Architecture: iphoneos-arm
+Version: 0.2~beta5
+Section: Tweaks
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 6.0), mobilesubstrate
+Filename: ./io.github.zosrepo.ntspeed_0.2~beta5_iphoneos-arm.deb
+Size: 42240
+MD5sum: 5bd11d1ede8d5c70cea371f6b6742c83
+Homepage: http://modmyi.com/info/ntspeed.php
+Description: See Active Traffic Network Speed
+Name: NtSpeed
+Author: Yangcheesen
+Depiction: http://modmyi.com/info/ntspeed.d.php
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: io.github.zosrepo.otablocker
+Architecture: iphoneos-arm
+Version: 0.2a
+Section: Utilities
+Maintainer: Yangcheesen
+Filename: ./io.github.zosrepo.otablocker_0.2a_iphoneos-arm.deb
+Size: 5776
+MD5sum: 6a34e12c6763f7c848aa72fea1b0c3f1
+Homepage: http://twitter.com/Yangcheesen
+Description: Block iOS OTA Updates
+Name: OTABlocker
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.otablocker
+
+Package: io.github.zosrepo.pipenabler
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./io.github.zosrepo.pipenabler_0.2_iphoneos-arm.deb
+Size: 51330
+MD5sum: 123bf8b4024833a599de4a48eb613550
+Homepage: http://twitter.com/Yangcheesen
+Description: Enabler Picture In Picture Feature
+Name: PIPEnabler
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/PIPEnablerSettings.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.pipenabler
+
+Package: io.github.zosrepo.sftpenabler
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Networking
+Maintainer: Yangcheesen
+Depends: openssl, firmware (>> 9)
+Conflicts: openssh
+Filename: ./io.github.zosrepo.sftpenabler_0.1_iphoneos-arm.deb
+Size: 34314
+MD5sum: 709690c9fe1fb751e2d3f655704e423e
+Homepage: http://twitter.com/Yangcheesen
+Description: SFTP connection for SSH Dropbear in iOS 10
+Name: SFTPEnabler
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.sftpenabler
+
+Package: io.github.zosrepo.siriifpossible
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.siriifpossible_0.0~beta1_iphoneos-arm.deb
+Size: 8758
+MD5sum: 256ebb05c7325d2d964c27deb05ae228
+Homepage: http://twitter.com/Yangcheesen
+Description: If Siri Unavailable Use Voice Control
+Name: SiriIfPossible
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.siriifpossible
+
+Package: io.github.zosrepo.slackhistory
+Architecture: iphoneos-arm
+Version: 0.1c
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.slackhistory_0.1c_iphoneos-arm.deb
+Size: 15480
+MD5sum: f67af1064dd443f4a1fa6eb007f398f4
+Homepage: http://twitter.com/Yangcheesen
+Description: Slack See Edited Message History
+Name: SlackHistory
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.slackhistory
+
+Package: io.github.zosrepo.tb280
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.tb280_0.2_iphoneos-arm.deb
+Size: 7072
+MD5sum: 366d035a20640c76f7953b0a36c2974c
+Homepage: http://twitter.com/Yangcheesen
+Description: Tweetbot 280 Character Enabler
+Name: TB280
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.tb280
+
+Package: io.github.zosrepoe.trustdevalert
+Architecture: iphoneos-arm
+Version: 0.1-1
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./io.github.zosrepo.trustdevalert_0.1-1_iphoneos-arm.deb
+Size: 9358
+MD5sum: 7c0e61e9f5309166dc4c8b5233b66f5a
+Homepage: http://twitter.com/Yangcheesen
+Description: Add Trust Button In Alert Of Free Developer Profile Not Trusted.
+Name: trustDevAlert
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.trustdevalert
+
+Package: io.github.zosrepo.tw280
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.tw280_0.2_iphoneos-arm.deb
+Size: 5914
+MD5sum: e7323832b8368edc6f66109b2ef22907
+Homepage: http://twitter.com/Yangchreesen
+Description: Twitter 280 Character Enabler
+Name: TW280
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.tw280
+
+Package: io.github.zosrepo.uicachefix10
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Utilities
+Maintainer: Yangcheeesen
+Depends: uikittools (= 1.1.12)
+Filename: ./io.github.zosrepo.uicachefix10_0.1_iphoneos-arm.deb
+Size: 786
+MD5sum: f42e8ad259ce7f0fefc37d1776a249b2
+Homepage: http://twitter.com/Yangcheesen
+Description: Temp Fix uicache in iOS 10 by setting chmod 4755 in uicache and preventing Substrate loading intro uicache.
+Name: uicache Fix
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.uicachefix10
+
+Package: io.github.zosrepo.widplayer
+Architecture: iphoneos-arm
+Version: 3.5.4
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: ./io.github.zosrepo.widplayer_3.5.4_iphoneos-arm.deb
+Size: 136852
+MD5sum: 24fe8751802a8512022e9e36c1b78227
+Homepage: http://twitter.com/Yangcheesen
+Description: Music Widget In Screen
+Name: WidPlayer
+Author: Yangcheesen
+Icon: file:///Library/PreferenceBundles/WidPlayer.bundle/icon@2x.png
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.widplayer
+
+Package: io.github.zosrepo.ytnoautoplay
+Architecture: iphoneos-arm
+Version: 0.0~beta2
+Section: Tweaks
+Maintainer: Yangcheesen
+Depends: mobilesubstrate
+Filename: ./io.github.zosrepo.ytnoautoplay_0.0~beta2_iphoneos-arm.deb
+Size: 14076
+MD5sum: 36633b6fcc6c1f5abf0d89dff04d66c5
+Homepage: http://twitter.com/Yangcheesen
+Description: YouTube Disable Autoplay Videos
+Name: YTNoAutoPlay
+Author: Yangcheesen
+Depiction: http://zosrepo.github.io/description.html?id=io.github.zosrepo.ytnoautoplay
+

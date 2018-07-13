@@ -1,0 +1,10 @@
+Origin: zOS Team's Repo
+Label: zOS Team
+Suite: stable
+Version: 1.0
+Codename: zOS Team
+Architecture: iphoneos-arm
+Components: main
+Description: zOS Team's Tweaks
+8bcba5a89871a6298e12044d75ec403b Packages
+f53ffe2fb5c227389ca837ebf53950e1 Packages.bz2
